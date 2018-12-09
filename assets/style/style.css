@@ -1,0 +1,16 @@
+#add-animal {
+    width: 20%; 
+    background: blueviolet;
+    color: white; 
+    border-radius: 25px; 
+    font-size: 20px; 
+
+}
+
+.animal {
+    font-size: 15px;
+    width: 8%;
+    background: blueviolet;
+    color: white; 
+    border-radius: 25px; 
+}
