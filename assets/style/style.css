@@ -1,4 +1,4 @@
-#add-animal {
+#add-gif {
     width: 20%; 
     background: blueviolet;
     color: white; 
@@ -13,4 +13,17 @@
     background: blueviolet;
     color: white; 
     border-radius: 25px; 
+}
+
+.container{
+    background: purple;
+}
+
+#gifs-appear-here {
+    background: black; 
+}
+
+#gif-form{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
